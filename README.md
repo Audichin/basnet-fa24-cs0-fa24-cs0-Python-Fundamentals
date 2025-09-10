@@ -1,4 +1,4 @@
-# FDS Python: Fundamentals and Data Structures with Python
+pyth# FDS Python: Fundamentals and Data Structures with Python
 
 These jupyter notebooks are based on open-source textbook "How to Think Like a Computer Scientist: Learning with Python 3 (RLE)" by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers found online [here](http://openbookproject.net/thinkcs/python/english3e/index.html).
 
